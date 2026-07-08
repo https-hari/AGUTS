@@ -165,10 +165,11 @@ AGUTS/
 | Student ID | Name | Role |
 |---|---|---|
 | 202401195 | Hari Sharma | Group Representative |
+| 202401461 | Rudra Bhatt | Member |
 | 202401235 | Arjunsinh Vaghela | Member |
 | 202401417 | Tirth Ditani | Member |
 | 202401423 | Neeti Gunsai | Member |
-| 202401461 | Rudra Bhatt | Member |
 
-**Course:** IT-214 Database Management System
+
+**Course:** IT214 Database Management System
 **Institution:** Dhirubhai Ambani University | Winter 2025–26
